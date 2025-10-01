@@ -24,7 +24,7 @@ export default function LoginPage() {
             THE NEW GENERATION COMMUNITY
           </h2>
           <p className="mb-8">
-            Let's connect and share content together to earn rewards everyday
+            Let&apos;s connect and share content together to earn rewards everyday
           </p>
         </div>
 

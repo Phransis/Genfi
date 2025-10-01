@@ -12,7 +12,7 @@ export default function NotFound() {
                 />
       <h1 className="text-4xl font-bold mb-4">404 - Page Not Found</h1>
       <p className="text-lg text-gray-600">
-        Oops! The page you're looking for doesn't exist. <Link href="/" className="text-blue-500 hover:underline">Go back home</Link>
+  Oops! The page you&apos;re looking for doesn&apos;t exist. <Link href="/" className="text-blue-500 hover:underline">Go back home</Link>
       </p>
     </div>
   );
