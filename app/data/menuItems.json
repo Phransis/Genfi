@@ -1,0 +1,8 @@
+[
+    { "displayName": "Feed", "slug": "feed" },
+    { "displayName": "Daily Task", "slug": "daily-task" },
+    { "displayName": "Stake", "slug": "stake" },
+    { "displayName": "Account", "slug": "account" },
+    { "displayName": "Post", "slug": "post" }
+
+]
