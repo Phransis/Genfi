@@ -20,11 +20,10 @@ export default function LoginPage() {
 
       <div className="w-full md:w-1/2 p-8">
         <div className="mb-8">
-          <h2 className="mb-4">
-            THE NEW GENERATION COMMUNITY
-          </h2>
+          <h2 className="mb-4">THE NEW GENERATION COMMUNITY</h2>
           <p className="mb-8">
-            Let&apos;s connect and share content together to earn rewards everyday
+            Let&apos;s connect and share content together to earn rewards
+            everyday
           </p>
         </div>
 
@@ -32,7 +31,7 @@ export default function LoginPage() {
           <div className="mb-4 ">Sign in to Genfi</div>
           <MetamaskButton />
           <WallectConnectButton />
-          </div>
+        </div>
       </div>
     </div>
   );
